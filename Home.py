@@ -1,5 +1,5 @@
 import streamlit as st
-import openai
+
 
 addition_info='''
 Use this if the user ask about the page
