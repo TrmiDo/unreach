@@ -1,5 +1,4 @@
 import streamlit as st
-import openai
 
 
 st.set_page_config(page_title="Languages and Countries Analysis", layout="wide")
