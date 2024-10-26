@@ -3,6 +3,8 @@ import streamlit as st
 # Set up page config
 st.set_page_config(page_title="Languages and Countries Analysis", layout="wide")
 
+st.write("Use the sidebar to navigate to different pages.")
+
 # Sidebar for user selection (if you have multiple dashboards)
 st.sidebar.title("Dashboard Selection")
 dashboard = st.sidebar.selectbox(
