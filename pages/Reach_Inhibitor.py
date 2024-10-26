@@ -1,5 +1,4 @@
 import streamlit as st
-import openai
 
 addition_info='''
 This visualization, titled "Reach Inhibitors," provides an analysis of the factors that make it difficult to reach specific affinity groups. It categorizes reach inhibitors by the intensity of their impact (large inhibitor in orange, minor inhibitor in gray) across various affinity groups. Here’s a breakdown of its elements:
